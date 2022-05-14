@@ -1,2 +1,2 @@
 # org.com
-This is example
+We are here to help people.
