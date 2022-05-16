@@ -2415,10 +2415,15 @@ a.fg-light:hover, a.fg-light:focus {
   width: 90px;
   height: 60px;
 }
-.bgfornews{
-  width: 100%;
-  height: 400px;
+.card{
+  margin: 10px;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
+  background-color:#a1aab6;
 }
-.explore-container{
-  display: flex;
+.card :hover {
+  color: #292c3c;;
+  text-decoration: none ;
 }
